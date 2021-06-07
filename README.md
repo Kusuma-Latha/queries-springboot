@@ -1,1 +1,1 @@
-# queries-springboot
+# springboot-jpaquery
